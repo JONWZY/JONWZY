@@ -1,3 +1,4 @@
+## GitHub Stats & Grind
 # ─── JONWZY ───
 
 <p align="center">
