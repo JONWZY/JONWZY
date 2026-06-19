@@ -1,4 +1,4 @@
-<img src=https://github.com/JONWZY/JONWZY/blob/63eaffd5be286d51ca597d18d7888fef5c44fc46/download%20(2).jpg
+<img src=https://github.com/JONWZY/JONWZY/blob/15f67dccdd4b775bb4c80af3521e3b380e39ef78/download%20(4).jpg
  alt="Banner de perfil" width="100%" height="400px">
 
 
