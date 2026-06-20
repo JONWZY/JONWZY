@@ -29,8 +29,10 @@ Tools and languages I use to bring ideas to life:
 ##  GitHub Stats & Grind
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JONWZY&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff" alt="JONWZY's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JONWZY&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" alt="Top Languages" width="48%" />
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JONWZY&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff&count_private=true" alt="My GitHub Stats" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JONWZY&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&count_private=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
